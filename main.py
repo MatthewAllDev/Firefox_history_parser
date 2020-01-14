@@ -1,3 +1,7 @@
+# Script for convert Firefox history from .sqlite to .xls(x) file.
+# author Ilya Matthew Kuvarzin <luceo2011@yandex.ru>
+# version 1.0 dated January 14, 2020
+
 import sqlite3
 import datetime
 import re
